@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/zoro6u/Algo-Arena/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/zoro6u/Algo-Arena/tree/master/0006-zigzag-conversion) |
+| [0008-string-to-integer-atoi](https://github.com/zoro6u/Algo-Arena/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/zoro6u/Algo-Arena/tree/master/0010-regular-expression-matching) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/zoro6u/Algo-Arena/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/zoro6u/Algo-Arena/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
