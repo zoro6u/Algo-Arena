@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/zoro6u/Algo-Arena/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/zoro6u/Algo-Arena/tree/master/0014-longest-common-prefix) |
 | [0486-predict-the-winner](https://github.com/zoro6u/Algo-Arena/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/zoro6u/Algo-Arena/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/zoro6u/Algo-Arena/tree/master/0877-stone-game) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/zoro6u/Algo-Arena/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/zoro6u/Algo-Arena/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/zoro6u/Algo-Arena/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/zoro6u/Algo-Arena/tree/master/0014-longest-common-prefix) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/zoro6u/Algo-Arena/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/zoro6u/Algo-Arena/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/zoro6u/Algo-Arena/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -215,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/zoro6u/Algo-Arena/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/zoro6u/Algo-Arena/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
