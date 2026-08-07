@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/zoro6u/Algo-Arena/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/zoro6u/Algo-Arena/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/zoro6u/Algo-Arena/tree/master/0022-generate-parentheses) |
 | [0486-predict-the-winner](https://github.com/zoro6u/Algo-Arena/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/zoro6u/Algo-Arena/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/zoro6u/Algo-Arena/tree/master/1406-stone-game-iii) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/zoro6u/Algo-Arena/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/zoro6u/Algo-Arena/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/zoro6u/Algo-Arena/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/zoro6u/Algo-Arena/tree/master/0022-generate-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/zoro6u/Algo-Arena/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/zoro6u/Algo-Arena/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/zoro6u/Algo-Arena/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/zoro6u/Algo-Arena/tree/master/0022-generate-parentheses) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/zoro6u/Algo-Arena/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Trie
 |  |
@@ -243,4 +246,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/zoro6u/Algo-Arena/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/zoro6u/Algo-Arena/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
