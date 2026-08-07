@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/zoro6u/Algo-Arena/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/zoro6u/Algo-Arena/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/zoro6u/Algo-Arena/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/zoro6u/Algo-Arena/tree/master/0020-valid-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/zoro6u/Algo-Arena/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/zoro6u/Algo-Arena/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/zoro6u/Algo-Arena/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/zoro6u/Algo-Arena/tree/master/0020-valid-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/zoro6u/Algo-Arena/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
@@ -235,4 +237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/zoro6u/Algo-Arena/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/zoro6u/Algo-Arena/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
