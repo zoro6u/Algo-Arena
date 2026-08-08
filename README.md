@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/zoro6u/Algo-Arena/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/zoro6u/Algo-Arena/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/zoro6u/Algo-Arena/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/zoro6u/Algo-Arena/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/zoro6u/Algo-Arena/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/zoro6u/Algo-Arena/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/zoro6u/Algo-Arena/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/zoro6u/Algo-Arena/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/zoro6u/Algo-Arena/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/zoro6u/Algo-Arena/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/zoro6u/Algo-Arena/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/zoro6u/Algo-Arena/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/zoro6u/Algo-Arena/tree/master/0011-container-with-most-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/zoro6u/Algo-Arena/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/zoro6u/Algo-Arena/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/zoro6u/Algo-Arena/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/zoro6u/Algo-Arena/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/zoro6u/Algo-Arena/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/zoro6u/Algo-Arena/tree/master/0022-generate-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/zoro6u/Algo-Arena/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/zoro6u/Algo-Arena/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/zoro6u/Algo-Arena/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/zoro6u/Algo-Arena/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/zoro6u/Algo-Arena/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/zoro6u/Algo-Arena/tree/master/3517-smallest-palindromic-rearrangement-i) |
