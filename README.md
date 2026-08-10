@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/zoro6u/Algo-Arena/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/zoro6u/Algo-Arena/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/zoro6u/Algo-Arena/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/zoro6u/Algo-Arena/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/zoro6u/Algo-Arena/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/zoro6u/Algo-Arena/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/zoro6u/Algo-Arena/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/zoro6u/Algo-Arena/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/zoro6u/Algo-Arena/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/zoro6u/Algo-Arena/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/zoro6u/Algo-Arena/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/zoro6u/Algo-Arena/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/zoro6u/Algo-Arena/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/zoro6u/Algo-Arena/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -293,4 +295,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/zoro6u/Algo-Arena/tree/master/1510-stone-game-iv) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/zoro6u/Algo-Arena/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/zoro6u/Algo-Arena/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/zoro6u/Algo-Arena/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/zoro6u/Algo-Arena/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
