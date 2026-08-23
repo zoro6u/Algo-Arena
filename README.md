@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/zoro6u/Algo-Arena/tree/master/0011-container-with-most-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/zoro6u/Algo-Arena/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/zoro6u/Algo-Arena/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/zoro6u/Algo-Arena/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/zoro6u/Algo-Arena/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/zoro6u/Algo-Arena/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/zoro6u/Algo-Arena/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/zoro6u/Algo-Arena/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/zoro6u/Algo-Arena/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/zoro6u/Algo-Arena/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1927-sum-game](https://github.com/zoro6u/Algo-Arena/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/zoro6u/Algo-Arena/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/zoro6u/Algo-Arena/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/zoro6u/Algo-Arena/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/zoro6u/Algo-Arena/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/zoro6u/Algo-Arena/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/zoro6u/Algo-Arena/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/zoro6u/Algo-Arena/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/zoro6u/Algo-Arena/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/zoro6u/Algo-Arena/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/zoro6u/Algo-Arena/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/zoro6u/Algo-Arena/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/zoro6u/Algo-Arena/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/zoro6u/Algo-Arena/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/zoro6u/Algo-Arena/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/zoro6u/Algo-Arena/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
