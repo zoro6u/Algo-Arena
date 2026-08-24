@@ -1,15 +1,13 @@
 from typing import List
+from itertools import accumulate
 
 class Solution:
     def stoneGameVIII(self, stones: List[int]) -> int:
-        n = len(stones)
-        prefix = [0] * n
-        prefix[0] = stones[0]
-        for i in range(1, n):
-            prefix[i] = prefix[i - 1] + stones[i]
-
-        dp = prefix[n - 1]
-        for i in range(n - 2, 0, -1):
-            dp = max(dp, prefix[i] - dp)
-
+        prefix = list(accumulate(stones))  # C-level cumulative sum, faster than a manual Python loop
+        dp = prefix[-1]
+        for i in range(len(prefix) - 2, 0, -1):
+            p = prefix[i]
+            diff = p - dp
+            if diff > dp:
+                dp = diff
         return dp
