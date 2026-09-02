@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/zoro6u/Algo-Arena/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/zoro6u/Algo-Arena/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/zoro6u/Algo-Arena/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/zoro6u/Algo-Arena/tree/master/0031-next-permutation) |
 | [0486-predict-the-winner](https://github.com/zoro6u/Algo-Arena/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/zoro6u/Algo-Arena/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/zoro6u/Algo-Arena/tree/master/0877-stone-game) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/zoro6u/Algo-Arena/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/zoro6u/Algo-Arena/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/zoro6u/Algo-Arena/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/zoro6u/Algo-Arena/tree/master/0031-next-permutation) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/zoro6u/Algo-Arena/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/zoro6u/Algo-Arena/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/zoro6u/Algo-Arena/tree/master/3867-sum-of-gcd-of-formed-pairs) |
