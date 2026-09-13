@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/zoro6u/Algo-Arena/tree/master/0031-next-permutation) |
 | [0486-predict-the-winner](https://github.com/zoro6u/Algo-Arena/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/zoro6u/Algo-Arena/tree/master/0628-maximum-product-of-three-numbers) |
+| [0835-image-overlap](https://github.com/zoro6u/Algo-Arena/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/zoro6u/Algo-Arena/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/zoro6u/Algo-Arena/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/zoro6u/Algo-Arena/tree/master/1260-shift-2d-grid) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/zoro6u/Algo-Arena/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/zoro6u/Algo-Arena/tree/master/1260-shift-2d-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/zoro6u/Algo-Arena/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Segment Tree
