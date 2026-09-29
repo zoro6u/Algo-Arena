@@ -1,32 +1,34 @@
+from functools import cache
 from typing import List
 
 class Solution:
     def hasValidPath(self, grid: List[List[str]]) -> bool:
         m, n = len(grid), len(grid[0])
-        if (m + n - 1) % 2 != 0:
+        
+        # Quick boundary checks
+        if (m + n - 1) % 2 == 1 or grid[0][0] == ')' or grid[m - 1][n - 1] == '(':
             return False
-        if grid[0][0] != '(' or grid[m-1][n-1] != ')':
-            return False
+            
+        @cache
+        def dfs(i: int, j: int, k: int) -> bool:
+            # Update balance based on current cell
+            k += 1 if grid[i][j] == '(' else -1
+            
+            # Prune invalid paths
+            if k < 0 or k > m - i + n - j - 1:
+                return False
+                
+            # Base case: reached bottom-right cell
+            if i == m - 1 and j == n - 1:
+                return k == 0
+                
+            # Move down or right
+            res = False
+            if i + 1 < m:
+                res = res or dfs(i + 1, j, k)
+            if not res and j + 1 < n:
+                res = res or dfs(i, j + 1, k)
+                
+            return res
 
-        dp = [[set() for _ in range(n)] for _ in range(m)]
-        dp[0][0] = {1}
-
-        for r in range(m):
-            for c in range(n):
-                if r == 0 and c == 0:
-                    continue
-                delta = 1 if grid[r][c] == '(' else -1
-                balances = set()
-                if r > 0:
-                    for b in dp[r-1][c]:
-                        nb = b + delta
-                        if nb >= 0:
-                            balances.add(nb)
-                if c > 0:
-                    for b in dp[r][c-1]:
-                        nb = b + delta
-                        if nb >= 0:
-                            balances.add(nb)
-                dp[r][c] = balances
-
-        return 0 in dp[m-1][n-1]
+        return dfs(0, 0, 0)
